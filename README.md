@@ -19,12 +19,12 @@ A Java implementation of the classic Flappy Bird game, designed for learning and
 
 ### 🎮 Screenshots 
 
-<img width="448" height="835" alt="flappy-gameplay-3" src="https://github.com/user-attachments/assets/f728972a-1c95-4965-aea6-e96baca766e4" />
+<img width="403" height="751" alt="flappy-gameplay-3" src="https://github.com/user-attachments/assets/ec1def46-96d8-4415-9144-1d85c64b7f55" />
 
-<img width="450" height="837" alt="flappy-gameplay-2" src="https://github.com/user-attachments/assets/8a218aff-2cd4-4190-aff9-66700ac328cb" />
+<img width="399" height="748" alt="flappy-gameplay-2" src="https://github.com/user-attachments/assets/f762799e-99ef-4a42-9c2e-fb6ed4e7e7e4" />
 
-![Flappy_Bird_gameplay](https://github.com/user-attachments/assets/92996898-21a3-492a-9247-c443e2bddd0e)
 
+![Flappy_Bird_gameplay-optimize](https://github.com/user-attachments/assets/a428a5a2-d55a-452c-baac-3835871ffbec)
 
 ### ⚡ How to Run
 
