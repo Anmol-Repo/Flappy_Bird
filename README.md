@@ -13,7 +13,7 @@ A Java implementation of the classic Flappy Bird game, designed for learning and
 
 ### Prerequisites
 
-- **Java Development Kit (JDK) 8 or higher**  
+ **Java Development Kit (JDK) 8 or higher**  
   [Download JDK](https://www.oracle.com/java/technologies/downloads/)
   
 
