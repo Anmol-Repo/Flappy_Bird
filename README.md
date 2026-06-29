@@ -2,7 +2,7 @@
 
 A Java implementation of the classic Flappy Bird game, designed for learning and fun. This project demonstrates key concepts in game development using Java, including graphics rendering, collision detection, and responsive user input.
 
-## ✨ Features
+## ✨ Features 
 
 - **Smooth Gameplay:** Responsive control and realistic physics for a challenging experience.
 - **Simple Graphics:** Clean and colorful 2D visuals.
